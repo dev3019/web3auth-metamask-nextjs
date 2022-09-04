@@ -1,4 +1,4 @@
-This decentralised app allows you to connect Metamask, Coinbase and WalletConnect wallets to you browser/app.
+This decentralised app allows you to connect Metamask, Coinbase and WalletConnect wallets and swap matic for weth/usdc
 
 ## Getting Started
 
